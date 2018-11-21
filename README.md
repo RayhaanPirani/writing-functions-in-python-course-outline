@@ -40,7 +40,7 @@
      * Description: Understand what are recursive functions, and how they work.
      * A learning objective: Learners will be able to develop their own recursive functions and understand code that uses recursion.
    * Lesson 4.2 - Defining nested functions
-     * Description: Learn how functions can be defined within other functions.
+     * Description: Learn how functions can be defined within other functions, and how they can be useful in simplifying complicated function definitions.
      * A learning objective: Students will be able to create their own nested functions.
    * Lesson 4.3 - Dealing with mutable and immutable arguments
      * Description: Study how functions modify mutable and immutable arguments passed to functions.
