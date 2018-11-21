@@ -36,19 +36,16 @@
      * Description: Exercise to consolidate previously learned topics.
      * A learning objective: Learners will utilize learned concepts to build their own class from scratch.
 ## Chapter 4 - Advanced function concepts
-   * Lesson 4.1 - Introduction to lambda functions
-     * Description: Understand what are lambda function, their syntax, and how they can be useful.
-     * A learning objective: Learners will be able to develop quick in-line functions using lambda functions.
-   * Lesson 4.2 - Understanding iterables and iterators
-     * Description: Learn about iterables and iterators and build your own.
-     * A learning objective: Students will be able to create their own iterators.
-   * Lesson 4.3 - Defining generators
-     * Description: Study generators and how they work, their usefulness, and create your own.
-     * A learning objective: Learners will be able to define an infinite series of values using generators and develop their own.
-   * Lesson 4.4 - Using decorators
-     * Description: Understand and build decorators, their usefulness, and how to develop your own ones.
-     * A learning objective: Learners will be able to extend the behavior of existing functions without modifying them by using decorators.
-   * Lesson 4.5 - Advanced function concepts exercise
+   * Lesson 4.1 - Recursive functions
+     * Description: Understand what are recursive functions, and how they work.
+     * A learning objective: Learners will be able to develop their own recursive functions and understand code that uses recursion.
+   * Lesson 4.2 - Defining nested functions
+     * Description: Learn how functions can be defined within other functions.
+     * A learning objective: Students will be able to create their own nested functions.
+   * Lesson 4.3 - Dealing with mutable and immutable arguments
+     * Description: Study how functions modify mutable and immutable arguments passed to functions.
+     * A learning objective: Learners will be able to work with various types of parameters passed to functions and be aware of side-effects potentially caused by functions when passing mutable arguments.
+   * Lesson 4.4 - Advanced function concepts exercise
      * Description: Exercise to consolidate previously learned topics.
-     * A learning objective: Learners will enhance the class built in the previous chapter using advanced concepts of lambda functions, iterators, generators, and decorators.
+     * A learning objective: Learners will enhance the class built in the previous chapter using advanced concepts of recursion, nested functions, and dealing with mutable and immutable arguments.
 
