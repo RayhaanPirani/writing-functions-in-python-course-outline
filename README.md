@@ -29,9 +29,9 @@
    * Lesson 3.2 - Introduction to methods
      * Description: Understand methods and their association to a class.
      * A learning objective: Learners will be able to create functions that belong to a class.
-   * Lesson 3.3 - Functions act as first-class objects
-     * Description: Study how functions can themselves be used as objects.
-     * A learning objective: Learners will be more confident in dealing with functions as objects and create better code as a result.
+   * Lesson 3.3 - Functions as objects and objects as functions
+     * Description: Study how functions can themselves be used as objects, and how objects can be made callable.
+     * A learning objective: Learners will be more confident in dealing with functions as objects, and callable objects and create better code as a result.
    * Lesson 3.4 - Functions in an object-oriented context exercise
      * Description: Exercise to consolidate previously learned topics.
      * A learning objective: Learners will utilize learned concepts to build their own class from scratch.
