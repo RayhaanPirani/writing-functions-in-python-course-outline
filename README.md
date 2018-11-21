@@ -45,7 +45,10 @@
    * Lesson 4.3 - Dealing with mutable and immutable arguments
      * Description: Study how functions modify mutable and immutable arguments passed to functions.
      * A learning objective: Learners will be able to work with various types of parameters passed to functions and be aware of side-effects potentially caused by functions when passing mutable arguments.
-   * Lesson 4.4 - Advanced function concepts exercise
+   * Lesson 4.4 - Advanced argument handling
+     * Description: Learn about positional and keyword arguments and develop functions that can accept any number of arguments
+     * A learning objective: Students will be able to build functions that can accept infinite parameters.
+   * Lesson 4.5 - Advanced function concepts exercise
      * Description: Exercise to consolidate previously learned topics.
      * A learning objective: Learners will enhance the class built in the previous chapter using advanced concepts of recursion, nested functions, and dealing with mutable and immutable arguments.
 
