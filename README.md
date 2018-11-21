@@ -37,7 +37,7 @@
      * A learning objective: Learners will utilize learned concepts to build their own class from scratch.
 ## Chapter 4 - Advanced function concepts
    * Lesson 4.1 - Recursive functions
-     * Description: Understand what are recursive functions, and how they work.
+     * Description: Understand what recursive functions are, and how they work.
      * A learning objective: Learners will be able to develop their own recursive functions and understand code that uses recursion.
    * Lesson 4.2 - Defining nested functions
      * Description: Learn how functions can be defined within other functions, and how they can be useful in simplifying complicated function definitions.
